@@ -9,7 +9,7 @@ function insert_Row() {
 		if(i == 0){
 			td.innerText = "New Cell1";
 		}else{
-			td.innerText = "New cell2";
+			td.innerText = "New Cell2";
 		}
 		tr.appendChild(td);
 	}
